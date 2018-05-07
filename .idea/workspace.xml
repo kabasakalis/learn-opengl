@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__3.1.blending_discard" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__5.1.transformations" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__1.1.depth_testing" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__1.2.hello_window_clear" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__6.2.coordinate_systems_depth" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__10.3.asteroids_instanced" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__9.1.geometry_shader_houses" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__8.2.deferred_shading_volumes" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.5.textures_exercise4" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__2.stencil_testing" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.3.textures_exercise2" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__7.bloom" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.3.hello_triangle_exercise1" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__4.3.lighting_maps_exercise4" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.1.2.shadow_mapping_base" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.2.1.point_shadows" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.2.hello_triangle_indexed" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__6.1.cubemaps_skybox" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__5.1.parallax_mapping" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__5.2.transformations_exercise2" />
+      <config projectName="LearnOpenGL" targetName="GLAD" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__1.advanced_lighting" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__1.1.lighting" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__6.3.coordinate_systems_multiple" />
+      <config projectName="LearnOpenGL" targetName="3.model_loading__1.model_loading" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__2.2.2.ibl_specular_textured" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__3.2.shaders_interpolation" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__1.1.hello_window" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__2.1.2.ibl_irradiance" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__2.2.1.ibl_specular" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__9.ssao" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__2.1.1.ibl_irradiance_conversion" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__3.3.shaders_class" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__3.1.shaders_uniform" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__7.4.camera_class" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__1.2.depth_testing_view" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__5.2.framebuffers_exercise1" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__2.2.basic_lighting_specular" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__5.1.framebuffers" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__8.advanced_glsl_ubo" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__2.1.basic_lighting_diffuse" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__3.2.blending_sort" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__5.2.steep_parallax_mapping" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__3.2.materials_exercise1" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__9.2.geometry_shader_exploding" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__6.multiple_lights" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__5.3.light_casters_spot" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__1.2.lighting_textured" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__5.3.parallax_occlusion_mapping" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__1.colors" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__10.1.instancing_quads" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__5.4.light_casters_spot_soft" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.1.3.shadow_mapping" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__6.hdr" />
+      <config projectName="LearnOpenGL" targetName="STB_IMAGE" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.1.textures" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.4.textures_exercise3" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__7.1.camera_circle" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.2.textures_combined" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__4.1.lighting_maps_diffuse_map" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__6.1.coordinate_systems" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__11.anti_aliasing_offscreen" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__4.normal_mapping" />
+      <config projectName="LearnOpenGL" targetName="7.in_practice__1.debugging" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.4.hello_triangle_exercise2" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__8.1.deferred_shading" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__9.3.geometry_shader_normals" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.1.1.shadow_mapping_depth" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.1.hello_triangle" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.5.hello_triangle_exercise3" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__4.2.lighting_maps_specular_map" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__6.2.cubemaps_environment_mapping" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__5.1.light_casters_directional" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__2.gamma_correction" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__10.2.asteroids" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__5.2.light_casters_point" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__7.2.camera_keyboard_dt" />
+      <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.2.2.point_shadows_soft" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__3.1.materials" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__7.3.camera_mouse_zoom" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1abf8dd1-3977-410c-891a-676584854783" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake/modules/FindGLFW3.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake/modules/FindGLFW3.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake/modules/FindGLM.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake/modules/FindGLM.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SOIL.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/assimp.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/glew32s.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/glfw3.lib" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="27" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindGLFW3.cmake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmake/modules/FindGLFW3.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindGLM.cmake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmake/modules/FindGLM.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindASSIMP.cmake" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stb_image.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/stb_image.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="root_directory.h.in" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configuration/root_directory.h.in">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stb</find>
+      <find>/</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cmake/modules/FindGLM.cmake" />
+        <option value="$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake" />
+        <option value="$PROJECT_DIR$/cmake/modules/FindGLFW3.cmake" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="135" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="dlls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="opengl_libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="opengl_libs" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="opengl_libs" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="GLFW" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="opengl_libs" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="opengl_libs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\spiros\cpp\LearnOpenGL\bin\2.lighting" />
+      <recent name="C:\Users\spiros\cpp\LearnOpenGL\opengl_libs\include\learnopengl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\spiros\cpp\LearnOpenGL\bin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.1.getting_started__2.3.hello_triangle_exercise1">
+    <configuration name="1.getting_started__1.1.hello_window" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__1.1.hello_window" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__1.1.hello_window" />
+    <configuration name="1.getting_started__1.2.hello_window_clear" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__1.2.hello_window_clear" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__1.2.hello_window_clear" />
+    <configuration name="1.getting_started__2.1.hello_triangle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__2.1.hello_triangle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__2.1.hello_triangle" />
+    <configuration name="1.getting_started__2.2.hello_triangle_indexed" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__2.2.hello_triangle_indexed" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__2.2.hello_triangle_indexed" />
+    <configuration name="1.getting_started__2.3.hello_triangle_exercise1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__2.3.hello_triangle_exercise1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__2.3.hello_triangle_exercise1" />
+    <configuration name="1.getting_started__2.4.hello_triangle_exercise2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__2.4.hello_triangle_exercise2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__2.4.hello_triangle_exercise2" />
+    <configuration name="1.getting_started__2.5.hello_triangle_exercise3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__2.5.hello_triangle_exercise3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__2.5.hello_triangle_exercise3" />
+    <configuration name="1.getting_started__3.1.shaders_uniform" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__3.1.shaders_uniform" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__3.1.shaders_uniform" />
+    <configuration name="1.getting_started__3.2.shaders_interpolation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__3.2.shaders_interpolation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__3.2.shaders_interpolation" />
+    <configuration name="1.getting_started__3.3.shaders_class" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__3.3.shaders_class" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__3.3.shaders_class" />
+    <configuration name="1.getting_started__4.1.textures" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__4.1.textures" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__4.1.textures" />
+    <configuration name="1.getting_started__4.2.textures_combined" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__4.2.textures_combined" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__4.2.textures_combined" />
+    <configuration name="1.getting_started__4.3.textures_exercise2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__4.3.textures_exercise2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__4.3.textures_exercise2" />
+    <configuration name="1.getting_started__4.4.textures_exercise3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__4.4.textures_exercise3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__4.4.textures_exercise3" />
+    <configuration name="1.getting_started__4.5.textures_exercise4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__4.5.textures_exercise4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__4.5.textures_exercise4" />
+    <configuration name="1.getting_started__5.1.transformations" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__5.1.transformations" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__5.1.transformations" />
+    <configuration name="1.getting_started__5.2.transformations_exercise2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__5.2.transformations_exercise2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__5.2.transformations_exercise2" />
+    <configuration name="1.getting_started__6.1.coordinate_systems" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__6.1.coordinate_systems" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__6.1.coordinate_systems" />
+    <configuration name="1.getting_started__6.2.coordinate_systems_depth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__6.2.coordinate_systems_depth" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__6.2.coordinate_systems_depth" />
+    <configuration name="1.getting_started__6.3.coordinate_systems_multiple" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__6.3.coordinate_systems_multiple" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__6.3.coordinate_systems_multiple" />
+    <configuration name="1.getting_started__7.1.camera_circle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__7.1.camera_circle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__7.1.camera_circle" />
+    <configuration name="1.getting_started__7.2.camera_keyboard_dt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__7.2.camera_keyboard_dt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__7.2.camera_keyboard_dt" />
+    <configuration name="1.getting_started__7.3.camera_mouse_zoom" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__7.3.camera_mouse_zoom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__7.3.camera_mouse_zoom" />
+    <configuration name="1.getting_started__7.4.camera_class" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="1.getting_started__7.4.camera_class" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="1.getting_started__7.4.camera_class" />
+    <configuration name="2.lighting__1.colors" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__1.colors" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__1.colors" />
+    <configuration name="2.lighting__2.1.basic_lighting_diffuse" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__2.1.basic_lighting_diffuse" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__2.1.basic_lighting_diffuse" />
+    <configuration name="2.lighting__2.2.basic_lighting_specular" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__2.2.basic_lighting_specular" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__2.2.basic_lighting_specular" />
+    <configuration name="2.lighting__3.1.materials" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__3.1.materials" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__3.1.materials" />
+    <configuration name="2.lighting__3.2.materials_exercise1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__3.2.materials_exercise1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__3.2.materials_exercise1" />
+    <configuration name="2.lighting__4.1.lighting_maps_diffuse_map" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__4.1.lighting_maps_diffuse_map" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__4.1.lighting_maps_diffuse_map" />
+    <configuration name="2.lighting__4.2.lighting_maps_specular_map" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__4.2.lighting_maps_specular_map" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__4.2.lighting_maps_specular_map" />
+    <configuration name="2.lighting__4.3.lighting_maps_exercise4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__4.3.lighting_maps_exercise4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__4.3.lighting_maps_exercise4" />
+    <configuration name="2.lighting__5.1.light_casters_directional" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__5.1.light_casters_directional" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__5.1.light_casters_directional" />
+    <configuration name="2.lighting__5.2.light_casters_point" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__5.2.light_casters_point" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__5.2.light_casters_point" />
+    <configuration name="2.lighting__5.3.light_casters_spot" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__5.3.light_casters_spot" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__5.3.light_casters_spot" />
+    <configuration name="2.lighting__5.4.light_casters_spot_soft" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__5.4.light_casters_spot_soft" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__5.4.light_casters_spot_soft" />
+    <configuration name="2.lighting__6.multiple_lights" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="2.lighting__6.multiple_lights" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="2.lighting__6.multiple_lights" />
+    <configuration name="3.model_loading__1.model_loading" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="3.model_loading__1.model_loading" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="3.model_loading__1.model_loading" />
+    <configuration name="4.advanced_opengl__10.1.instancing_quads" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__10.1.instancing_quads" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__10.1.instancing_quads" />
+    <configuration name="4.advanced_opengl__10.2.asteroids" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__10.2.asteroids" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__10.2.asteroids" />
+    <configuration name="4.advanced_opengl__10.3.asteroids_instanced" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__10.3.asteroids_instanced" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__10.3.asteroids_instanced" />
+    <configuration name="4.advanced_opengl__11.anti_aliasing_offscreen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__11.anti_aliasing_offscreen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__11.anti_aliasing_offscreen" />
+    <configuration name="4.advanced_opengl__1.1.depth_testing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__1.1.depth_testing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__1.1.depth_testing" />
+    <configuration name="4.advanced_opengl__1.2.depth_testing_view" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__1.2.depth_testing_view" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__1.2.depth_testing_view" />
+    <configuration name="4.advanced_opengl__2.stencil_testing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__2.stencil_testing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__2.stencil_testing" />
+    <configuration name="4.advanced_opengl__3.1.blending_discard" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__3.1.blending_discard" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__3.1.blending_discard" />
+    <configuration name="4.advanced_opengl__3.2.blending_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__3.2.blending_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__3.2.blending_sort" />
+    <configuration name="4.advanced_opengl__5.1.framebuffers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__5.1.framebuffers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__5.1.framebuffers" />
+    <configuration name="4.advanced_opengl__5.2.framebuffers_exercise1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__5.2.framebuffers_exercise1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__5.2.framebuffers_exercise1" />
+    <configuration name="4.advanced_opengl__6.1.cubemaps_skybox" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__6.1.cubemaps_skybox" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__6.1.cubemaps_skybox" />
+    <configuration name="4.advanced_opengl__6.2.cubemaps_environment_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__6.2.cubemaps_environment_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__6.2.cubemaps_environment_mapping" />
+    <configuration name="4.advanced_opengl__8.advanced_glsl_ubo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__8.advanced_glsl_ubo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__8.advanced_glsl_ubo" />
+    <configuration name="4.advanced_opengl__9.1.geometry_shader_houses" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__9.1.geometry_shader_houses" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__9.1.geometry_shader_houses" />
+    <configuration name="4.advanced_opengl__9.2.geometry_shader_exploding" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__9.2.geometry_shader_exploding" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__9.2.geometry_shader_exploding" />
+    <configuration name="4.advanced_opengl__9.3.geometry_shader_normals" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="4.advanced_opengl__9.3.geometry_shader_normals" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="4.advanced_opengl__9.3.geometry_shader_normals" />
+    <configuration name="5.advanced_lighting__1.advanced_lighting" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__1.advanced_lighting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__1.advanced_lighting" />
+    <configuration name="5.advanced_lighting__2.gamma_correction" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__2.gamma_correction" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__2.gamma_correction" />
+    <configuration name="5.advanced_lighting__3.1.1.shadow_mapping_depth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__3.1.1.shadow_mapping_depth" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__3.1.1.shadow_mapping_depth" />
+    <configuration name="5.advanced_lighting__3.1.2.shadow_mapping_base" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__3.1.2.shadow_mapping_base" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__3.1.2.shadow_mapping_base" />
+    <configuration name="5.advanced_lighting__3.1.3.shadow_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__3.1.3.shadow_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__3.1.3.shadow_mapping" />
+    <configuration name="5.advanced_lighting__3.2.1.point_shadows" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__3.2.1.point_shadows" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__3.2.1.point_shadows" />
+    <configuration name="5.advanced_lighting__3.2.2.point_shadows_soft" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__3.2.2.point_shadows_soft" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__3.2.2.point_shadows_soft" />
+    <configuration name="5.advanced_lighting__4.normal_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__4.normal_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__4.normal_mapping" />
+    <configuration name="5.advanced_lighting__5.1.parallax_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__5.1.parallax_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__5.1.parallax_mapping" />
+    <configuration name="5.advanced_lighting__5.2.steep_parallax_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__5.2.steep_parallax_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__5.2.steep_parallax_mapping" />
+    <configuration name="5.advanced_lighting__5.3.parallax_occlusion_mapping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__5.3.parallax_occlusion_mapping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__5.3.parallax_occlusion_mapping" />
+    <configuration name="5.advanced_lighting__6.hdr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__6.hdr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__6.hdr" />
+    <configuration name="5.advanced_lighting__7.bloom" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__7.bloom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__7.bloom" />
+    <configuration name="5.advanced_lighting__8.1.deferred_shading" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__8.1.deferred_shading" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__8.1.deferred_shading" />
+    <configuration name="5.advanced_lighting__8.2.deferred_shading_volumes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__8.2.deferred_shading_volumes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__8.2.deferred_shading_volumes" />
+    <configuration name="5.advanced_lighting__9.ssao" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="5.advanced_lighting__9.ssao" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="5.advanced_lighting__9.ssao" />
+    <configuration name="6.pbr__1.1.lighting" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__1.1.lighting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__1.1.lighting" />
+    <configuration name="6.pbr__1.2.lighting_textured" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__1.2.lighting_textured" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__1.2.lighting_textured" />
+    <configuration name="6.pbr__2.1.1.ibl_irradiance_conversion" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__2.1.1.ibl_irradiance_conversion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__2.1.1.ibl_irradiance_conversion" />
+    <configuration name="6.pbr__2.1.2.ibl_irradiance" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__2.1.2.ibl_irradiance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__2.1.2.ibl_irradiance" />
+    <configuration name="6.pbr__2.2.1.ibl_specular" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__2.2.1.ibl_specular" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__2.2.1.ibl_specular" />
+    <configuration name="6.pbr__2.2.2.ibl_specular_textured" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="6.pbr__2.2.2.ibl_specular_textured" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="6.pbr__2.2.2.ibl_specular_textured" />
+    <configuration name="7.in_practice__1.debugging" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="7.in_practice__1.debugging" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="7.in_practice__1.debugging" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="GLAD" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="GLAD" CONFIG_NAME="Debug" />
+    <configuration name="STB_IMAGE" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="STB_IMAGE" CONFIG_NAME="Debug" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.1.getting_started__1.1.hello_window" />
+      <item itemvalue="Application.1.getting_started__1.2.hello_window_clear" />
+      <item itemvalue="Application.1.getting_started__2.1.hello_triangle" />
+      <item itemvalue="Application.1.getting_started__2.2.hello_triangle_indexed" />
+      <item itemvalue="Application.1.getting_started__2.3.hello_triangle_exercise1" />
+      <item itemvalue="Application.1.getting_started__2.4.hello_triangle_exercise2" />
+      <item itemvalue="Application.1.getting_started__2.5.hello_triangle_exercise3" />
+      <item itemvalue="Application.1.getting_started__3.1.shaders_uniform" />
+      <item itemvalue="Application.1.getting_started__3.2.shaders_interpolation" />
+      <item itemvalue="Application.1.getting_started__3.3.shaders_class" />
+      <item itemvalue="Application.1.getting_started__4.1.textures" />
+      <item itemvalue="Application.1.getting_started__4.2.textures_combined" />
+      <item itemvalue="Application.1.getting_started__4.3.textures_exercise2" />
+      <item itemvalue="Application.1.getting_started__4.4.textures_exercise3" />
+      <item itemvalue="Application.1.getting_started__4.5.textures_exercise4" />
+      <item itemvalue="Application.1.getting_started__5.1.transformations" />
+      <item itemvalue="Application.1.getting_started__5.2.transformations_exercise2" />
+      <item itemvalue="Application.1.getting_started__6.1.coordinate_systems" />
+      <item itemvalue="Application.1.getting_started__6.2.coordinate_systems_depth" />
+      <item itemvalue="Application.1.getting_started__6.3.coordinate_systems_multiple" />
+      <item itemvalue="Application.1.getting_started__7.1.camera_circle" />
+      <item itemvalue="Application.1.getting_started__7.2.camera_keyboard_dt" />
+      <item itemvalue="Application.1.getting_started__7.3.camera_mouse_zoom" />
+      <item itemvalue="Application.1.getting_started__7.4.camera_class" />
+      <item itemvalue="Application.2.lighting__1.colors" />
+      <item itemvalue="Application.2.lighting__2.1.basic_lighting_diffuse" />
+      <item itemvalue="Application.2.lighting__2.2.basic_lighting_specular" />
+      <item itemvalue="Application.2.lighting__3.1.materials" />
+      <item itemvalue="Application.2.lighting__3.2.materials_exercise1" />
+      <item itemvalue="Application.2.lighting__4.1.lighting_maps_diffuse_map" />
+      <item itemvalue="Application.2.lighting__4.2.lighting_maps_specular_map" />
+      <item itemvalue="Application.2.lighting__4.3.lighting_maps_exercise4" />
+      <item itemvalue="Application.2.lighting__5.1.light_casters_directional" />
+      <item itemvalue="Application.2.lighting__5.2.light_casters_point" />
+      <item itemvalue="Application.2.lighting__5.3.light_casters_spot" />
+      <item itemvalue="Application.2.lighting__5.4.light_casters_spot_soft" />
+      <item itemvalue="Application.2.lighting__6.multiple_lights" />
+      <item itemvalue="Application.3.model_loading__1.model_loading" />
+      <item itemvalue="Application.4.advanced_opengl__1.1.depth_testing" />
+      <item itemvalue="Application.4.advanced_opengl__1.2.depth_testing_view" />
+      <item itemvalue="Application.4.advanced_opengl__10.1.instancing_quads" />
+      <item itemvalue="Application.4.advanced_opengl__10.2.asteroids" />
+      <item itemvalue="Application.4.advanced_opengl__10.3.asteroids_instanced" />
+      <item itemvalue="Application.4.advanced_opengl__11.anti_aliasing_offscreen" />
+      <item itemvalue="Application.4.advanced_opengl__2.stencil_testing" />
+      <item itemvalue="Application.4.advanced_opengl__3.1.blending_discard" />
+      <item itemvalue="Application.4.advanced_opengl__3.2.blending_sort" />
+      <item itemvalue="Application.4.advanced_opengl__5.1.framebuffers" />
+      <item itemvalue="Application.4.advanced_opengl__5.2.framebuffers_exercise1" />
+      <item itemvalue="Application.4.advanced_opengl__6.1.cubemaps_skybox" />
+      <item itemvalue="Application.4.advanced_opengl__6.2.cubemaps_environment_mapping" />
+      <item itemvalue="Application.4.advanced_opengl__8.advanced_glsl_ubo" />
+      <item itemvalue="Application.4.advanced_opengl__9.1.geometry_shader_houses" />
+      <item itemvalue="Application.4.advanced_opengl__9.2.geometry_shader_exploding" />
+      <item itemvalue="Application.4.advanced_opengl__9.3.geometry_shader_normals" />
+      <item itemvalue="Application.5.advanced_lighting__1.advanced_lighting" />
+      <item itemvalue="Application.5.advanced_lighting__2.gamma_correction" />
+      <item itemvalue="Application.5.advanced_lighting__3.1.1.shadow_mapping_depth" />
+      <item itemvalue="Application.5.advanced_lighting__3.1.2.shadow_mapping_base" />
+      <item itemvalue="Application.5.advanced_lighting__3.1.3.shadow_mapping" />
+      <item itemvalue="Application.5.advanced_lighting__3.2.1.point_shadows" />
+      <item itemvalue="Application.5.advanced_lighting__3.2.2.point_shadows_soft" />
+      <item itemvalue="Application.5.advanced_lighting__4.normal_mapping" />
+      <item itemvalue="Application.5.advanced_lighting__5.1.parallax_mapping" />
+      <item itemvalue="Application.5.advanced_lighting__5.2.steep_parallax_mapping" />
+      <item itemvalue="Application.5.advanced_lighting__5.3.parallax_occlusion_mapping" />
+      <item itemvalue="Application.5.advanced_lighting__6.hdr" />
+      <item itemvalue="Application.5.advanced_lighting__7.bloom" />
+      <item itemvalue="Application.5.advanced_lighting__8.1.deferred_shading" />
+      <item itemvalue="Application.5.advanced_lighting__8.2.deferred_shading_volumes" />
+      <item itemvalue="Application.5.advanced_lighting__9.ssao" />
+      <item itemvalue="Application.6.pbr__1.1.lighting" />
+      <item itemvalue="Application.6.pbr__1.2.lighting_textured" />
+      <item itemvalue="Application.6.pbr__2.1.1.ibl_irradiance_conversion" />
+      <item itemvalue="Application.6.pbr__2.1.2.ibl_irradiance" />
+      <item itemvalue="Application.6.pbr__2.2.1.ibl_specular" />
+      <item itemvalue="Application.6.pbr__2.2.2.ibl_specular_textured" />
+      <item itemvalue="Application.7.in_practice__1.debugging" />
+      <item itemvalue="Application.GLAD" />
+      <item itemvalue="Application.STB_IMAGE" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1abf8dd1-3977-410c-891a-676584854783" name="Default" comment="" />
+      <created>1525639545073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525639545073</updated>
+      <workItem from="1525639546665" duration="9674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9674000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.42065218" />
+      <window_info anchor="bottom" id="CMake" weight="0.22717391" />
+      <window_info anchor="right" id="LuaJ" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32934782" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32934782" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17857143" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="LuaJ" order="0" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="CMake" order="3" visible="true" weight="0.3097826" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/configuration/root_directory.h.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stb_image.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake/modules/FindGLFW3.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake/modules/FindGLM.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="27" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

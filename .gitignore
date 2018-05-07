@@ -1,0 +1,6 @@
+# ignores following folders
+bin/
+build/
+lib_OR/
+opengl_libs/
+cmake-build-debug/
