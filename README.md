@@ -1,8 +1,13 @@
 # learnopengl.com code repository
 Contains code samples for all tutorials of [https://learnopengl.com](https://learnopengl.com). 
+---
+The difference of my repo from the original one is that I have removed the default `lib` dependencies folder
+of the original repo and created a  git ignored  symbolic link `opengl_libs` which points to 
+a local Dropbox folder containing all the OpenGL dependencies that I have downloaded and
+compiled on my machine. The bottom line is that I am not including the original `libs` folder.
 
 ## Windows building
-All relevant libraries are found in /libs and all DLLs found in /dlls (pre-)compiled for Windows. 
+All relevant libraries are found in /libs (but read one paragraph above) and all DLLs found in /dlls (pre-)compiled for Windows. 
 The CMake script knows where to find the libraries so just run CMake script and generate project of choice.
 Note that you still have to manually copy the required .DLL files from the /dlls folder to your binary folder for the binaries to run.
 

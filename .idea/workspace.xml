@@ -7,19 +7,19 @@
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__1.1.depth_testing" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__1.2.hello_window_clear" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__6.2.coordinate_systems_depth" />
-      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__10.3.asteroids_instanced" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__9.1.geometry_shader_houses" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__10.3.asteroids_instanced" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__8.2.deferred_shading_volumes" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__4.5.textures_exercise4" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__2.stencil_testing" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__4.3.textures_exercise2" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__7.bloom" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__2.3.hello_triangle_exercise1" />
-      <config projectName="LearnOpenGL" targetName="2.lighting__4.3.lighting_maps_exercise4" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.1.2.shadow_mapping_base" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__4.3.lighting_maps_exercise4" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.2.1.point_shadows" />
-      <config projectName="LearnOpenGL" targetName="1.getting_started__2.2.hello_triangle_indexed" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__6.1.cubemaps_skybox" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.2.hello_triangle_indexed" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__5.1.parallax_mapping" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__5.2.transformations_exercise2" />
       <config projectName="LearnOpenGL" targetName="GLAD" />
@@ -30,50 +30,50 @@
       <config projectName="LearnOpenGL" targetName="6.pbr__2.2.2.ibl_specular_textured" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__3.2.shaders_interpolation" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__1.1.hello_window" />
-      <config projectName="LearnOpenGL" targetName="6.pbr__2.1.2.ibl_irradiance" />
       <config projectName="LearnOpenGL" targetName="6.pbr__2.2.1.ibl_specular" />
+      <config projectName="LearnOpenGL" targetName="6.pbr__2.1.2.ibl_irradiance" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__9.ssao" />
       <config projectName="LearnOpenGL" targetName="6.pbr__2.1.1.ibl_irradiance_conversion" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__3.3.shaders_class" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__3.1.shaders_uniform" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__5.2.framebuffers_exercise1" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__7.4.camera_class" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__1.2.depth_testing_view" />
-      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__5.2.framebuffers_exercise1" />
       <config projectName="LearnOpenGL" targetName="2.lighting__2.2.basic_lighting_specular" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__5.1.framebuffers" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__8.advanced_glsl_ubo" />
       <config projectName="LearnOpenGL" targetName="2.lighting__2.1.basic_lighting_diffuse" />
-      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__3.2.blending_sort" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__5.2.steep_parallax_mapping" />
+      <config projectName="LearnOpenGL" targetName="4.advanced_opengl__3.2.blending_sort" />
       <config projectName="LearnOpenGL" targetName="2.lighting__3.2.materials_exercise1" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__9.2.geometry_shader_exploding" />
       <config projectName="LearnOpenGL" targetName="2.lighting__6.multiple_lights" />
       <config projectName="LearnOpenGL" targetName="2.lighting__5.3.light_casters_spot" />
       <config projectName="LearnOpenGL" targetName="6.pbr__1.2.lighting_textured" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__5.3.parallax_occlusion_mapping" />
-      <config projectName="LearnOpenGL" targetName="2.lighting__1.colors" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__10.1.instancing_quads" />
+      <config projectName="LearnOpenGL" targetName="2.lighting__1.colors" />
       <config projectName="LearnOpenGL" targetName="2.lighting__5.4.light_casters_spot_soft" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.1.3.shadow_mapping" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__6.hdr" />
       <config projectName="LearnOpenGL" targetName="STB_IMAGE" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__4.1.textures" />
-      <config projectName="LearnOpenGL" targetName="1.getting_started__4.4.textures_exercise3" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__7.1.camera_circle" />
-      <config projectName="LearnOpenGL" targetName="1.getting_started__4.2.textures_combined" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.4.textures_exercise3" />
       <config projectName="LearnOpenGL" targetName="2.lighting__4.1.lighting_maps_diffuse_map" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__4.2.textures_combined" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__6.1.coordinate_systems" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__11.anti_aliasing_offscreen" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__4.normal_mapping" />
       <config projectName="LearnOpenGL" targetName="7.in_practice__1.debugging" />
-      <config projectName="LearnOpenGL" targetName="1.getting_started__2.4.hello_triangle_exercise2" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__8.1.deferred_shading" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.4.hello_triangle_exercise2" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__9.3.geometry_shader_normals" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__3.1.1.shadow_mapping_depth" />
       <config projectName="LearnOpenGL" targetName="1.getting_started__2.1.hello_triangle" />
-      <config projectName="LearnOpenGL" targetName="1.getting_started__2.5.hello_triangle_exercise3" />
       <config projectName="LearnOpenGL" targetName="2.lighting__4.2.lighting_maps_specular_map" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__6.2.cubemaps_environment_mapping" />
+      <config projectName="LearnOpenGL" targetName="1.getting_started__2.5.hello_triangle_exercise3" />
       <config projectName="LearnOpenGL" targetName="2.lighting__5.1.light_casters_directional" />
       <config projectName="LearnOpenGL" targetName="5.advanced_lighting__2.gamma_correction" />
       <config projectName="LearnOpenGL" targetName="4.advanced_opengl__10.2.asteroids" />
@@ -91,14 +91,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1abf8dd1-3977-410c-891a-676584854783" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake/modules/FindGLFW3.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake/modules/FindGLFW3.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake/modules/FindGLM.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake/modules/FindGLM.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/SOIL.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/assimp.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glew32s.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/glfw3.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,51 +103,26 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="27" selection-end-column="53" />
+            <state relative-caret-position="102">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindGLFW3.cmake" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmake/modules/FindGLFW3.cmake">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="170">
+                <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindGLM.cmake" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmake/modules/FindGLM.cmake">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindASSIMP.cmake" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stb_image.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stb_image.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="root_directory.h.in" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configuration/root_directory.h.in">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -175,6 +143,7 @@
         <option value="$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake" />
         <option value="$PROJECT_DIR$/cmake/modules/FindGLFW3.cmake" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -198,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,57 +182,6 @@
             <path>
               <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
-              <item name="dlls" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
-              <item name="opengl_libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
-              <item name="opengl_libs" type="462c0819:PsiDirectoryNode" />
-              <item name="include" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
-              <item name="opengl_libs" type="462c0819:PsiDirectoryNode" />
-              <item name="include" type="462c0819:PsiDirectoryNode" />
-              <item name="GLFW" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
-              <item name="opengl_libs" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
-              <item name="opengl_libs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnOpenGL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnOpenGL" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -276,6 +193,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -479,53 +397,54 @@
       <option name="presentableId" value="Default" />
       <updated>1525639545073</updated>
       <workItem from="1525639546665" duration="9674000" />
+      <workItem from="1525696415524" duration="1508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9674000" />
+    <option name="totallyTimeSpent" value="11182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.42065218" />
-      <window_info anchor="bottom" id="CMake" weight="0.22717391" />
-      <window_info anchor="right" id="LuaJ" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.22717391" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32934782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32934782" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32934782" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.42065218" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="right" id="LuaJ" order="0" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="CMake" order="3" visible="true" weight="0.3097826" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
@@ -537,37 +456,69 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/configuration/root_directory.h.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stb_image.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        <state relative-caret-position="442">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="27" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cmake/modules/FindGLFW3.cmake">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="816">
           <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cmake/modules/FindGLM.cmake">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="969">
           <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="27" selection-end-column="53" />
+        <state relative-caret-position="102">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake/modules/FindGLFW3.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake/modules/FindGLM.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake/modules/FindASSIMP.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
