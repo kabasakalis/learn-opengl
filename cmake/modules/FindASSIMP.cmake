@@ -11,8 +11,8 @@ FIND_PATH( ASSIMP_INCLUDE_DIR assimp/mesh.h
 #	${CMAKE_SOURCE_DIR}/includes
 		"${OPENGL_DEPENDENCIES}/include"
 )
-FIND_LIBRARY( ASSIMP_LIBRARY assimp-vc140-mt
-	/usr/lib6s s
+FIND_LIBRARY( ASSIMP_LIBRARY  assimp
+	/usr/lib64
 	/usr/lib
 	/usr/local/lib
 	/opt/local/lib
